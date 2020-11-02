@@ -3,7 +3,6 @@ import 'package:velocity_x/velocity_x.dart';
 
 Widget fullAppBar(BuildContext context) {
   return AppBar(
-    // centerTitle: true,
     iconTheme: IconThemeData(color: Vx.black),
     elevation: 2.0,
     backgroundColor: Vx.white,
